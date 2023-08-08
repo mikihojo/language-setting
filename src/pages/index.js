@@ -8,29 +8,30 @@ import * as styles from "../components/index.module.css"
 
 const links = [
   {
-    text: "言語の追加",
+    text: "1.言語の追加",
     url: "select-language",
     description:
       "Windowsで言語の追加をやってみましょう！",
   },
   {
-    text: "Examples",
-    url: "https://github.com/gatsbyjs/gatsby/tree/master/examples",
-    description:
-      "A collection of websites ranging from very basic to complex/complete that illustrate how to accomplish specific tasks within your Gatsby sites.",
-  },
-  {
-    text: "Plugin Library",
-    url: "https://www.gatsbyjs.com/plugins",
-    description:
-      "Learn how to add functionality and customize your Gatsby site or app with thousands of plugins built by our amazing developer community.",
-  },
-  {
-    text: "Build and Host",
+    text: "2.言語の変更方法",
     url: "https://www.gatsbyjs.com/cloud",
     description:
       "Now you’re ready to show the world! Give your Gatsby site superpowers: Build and host on Gatsby Cloud. Get started for free!",
+  },  
+  {
+    text: "3.キーボードの配置を確認する",
+    url: "https://github.com/gatsbyjs/gatsby/tree/master/examples",
+    description:
+      "Windowsのキーボードとオンラインキーボード",
   },
+  {
+    text: "4.Word,Excelで入力してみる",
+    url: "https://www.gatsbyjs.com/plugins",
+    description:
+      "Word,Excelで入力してみて正しく表示されるか確認する",
+  },
+
 ]
 
 const samplePageLinks = [

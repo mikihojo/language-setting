@@ -12,8 +12,6 @@ const SelectPage = () => (
     <StaticImage
         src="../images/set.png"
         loading="eager"
-        width={64}
-        quality={95}
         formats={["auto", "webp", "avif"]}
         alt=""
         style={{ marginBottom: `var(--space-3)` }}

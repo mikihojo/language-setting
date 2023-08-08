@@ -86,7 +86,7 @@ const IndexPage = () => (
         bienvenue à <b>Gatsby!</b>
       </h1>
       <p className={styles.intro}>
-        <b>Example a pages:</b>{" "}
+        <b>Example aa pages:</b>{" "}
         {samplePageLinks.map((link, i) => (
           <React.Fragment key={link.url}>
             <Link to={link.url}>{link.text}</Link>

@@ -7,8 +7,9 @@ import Seo from "../components/seo"
 
 const SelectPage = () => (
   <Layout>
-    <h1>Hi from the select page</h1>
-    <p>Welcome to page 2</p>
+    <h1>言語の追加</h1>
+    <h2>1.設定画面を開く</h2>
+    <p>設定画面内に「時刻と言語」があります。そこをクリック。</p>
     <StaticImage
         src="../images/set.png"
         loading="eager"

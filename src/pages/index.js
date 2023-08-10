@@ -31,6 +31,12 @@ const links = [
     description:
       "Word,Excelで入力してみて正しく表示されるか確認する",
   },
+  {
+    text: "補足.各言語とフォントの対応表",
+    url: "",
+    description:
+      "Word,Excelで表示可能なフォントを各言語ごとにまとめています。"
+  },
 
 ]
 

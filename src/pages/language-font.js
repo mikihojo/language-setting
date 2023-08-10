@@ -20,7 +20,7 @@ const LanguageFont = () => (
         </tr>
       </Table>
     <Link to="/">Go back to the homepage</Link>
-  </Layout>
+
 <Table striped bordered hover>
   <thead>
     <tr>
@@ -50,6 +50,7 @@ const LanguageFont = () => (
     </tr>
   </tbody>
 </Table>
+  </Layout>
 )
 
 

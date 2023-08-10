@@ -1,6 +1,6 @@
 import * as React from "react"
 import { Link } from "gatsby"
-import Table from "react-bootstrap/Table"
+import { Table } from "react-bootstrap"
 
 import Layout from "../components/layout"
 

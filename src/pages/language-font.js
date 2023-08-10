@@ -10,7 +10,7 @@ const LanguageFont = () => (
       <p>Welcome to page 2</p>
       <table>
         <tr>
-          <td rowspan=”2″>クメール語</td>
+          <td rowspan='2'>クメール語</td>
           <td>Leelawadee UI</td>
         </tr>
         <tr>

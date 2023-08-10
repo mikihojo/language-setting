@@ -33,7 +33,7 @@ const links = [
   },
   {
     text: "補足.各言語とフォントの対応表",
-    url: "",
+    url: "language-font",
     description:
       "Word,Excelで表示可能なフォントを各言語ごとにまとめています。"
   },

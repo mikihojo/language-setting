@@ -11,10 +11,14 @@ const LanguageFont = () => (
   <Layout>
     <h1>各言語とフォントの対応</h1>
       <p>Welcome to page 2</p>
-      <Table striped bordered hover>
+      <Table bordered hover>
+        <thead>
+          <th>言語</th>
+          <th>フォント</th>
+        </thead>
         <tbody>
           <tr>
-            <td rowspan='2'>クメール語</td>
+            <td rowSpan={2}>クメール語</td>
             <td>Leelawadee UI</td>
           </tr>
           <tr>

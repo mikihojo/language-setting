@@ -1,5 +1,6 @@
 import * as React from "react"
 import { Link } from "gatsby"
+import { StaticImage } from "gatsby-plugin-image"
 
 const Header = ({ siteTitle }) => (
   <header
@@ -20,12 +21,12 @@ const Header = ({ siteTitle }) => (
     >
       {siteTitle}
     </Link>
-    <img
-      alt="JICA logo"
-      height={20}
-      style={{ margin: 0 }}
-      src="../images/JICA_logo.png"
-    />
+    <StaticImage
+        src="../images/JICA_logo.png"
+        loading="eager"
+        height={20}
+        style={{ margin: 0 }}
+      />      
   </header>
 )
 

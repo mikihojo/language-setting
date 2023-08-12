@@ -44,7 +44,9 @@ const SelectPage = () => (
           alt=""
           style={{ marginBottom: `var(--space-6)` }}
         />
-    <Link to="/">Go back to the homepage</Link>
+    <div>
+      <Link to="/">Go back to the homepage</Link>
+    </div>
   </Layout>
 )
 

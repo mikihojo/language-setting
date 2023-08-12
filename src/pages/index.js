@@ -93,11 +93,11 @@ const IndexPage = () => (
         Windowsで言語の設定
       </h1>
       <p className={styles.intro}>
-        <b>Example aa pages:</b>{" "}
-        {samplePageLinks.map((link, i) => (
+        Windowsで言語の追加から表示までを順を追って設定してみましょう。
+        {/*samplePageLinks.map((link, i) => (
           <React.Fragment key={link.url}>
             <Link to={link.url}>{link.text}</Link>
-            {i !== samplePageLinks.length - 1 && <> · </>}
+            {i !== samplePageLinks.length - 1 && <> · </>*/}
           </React.Fragment>
         ))}
         <br />

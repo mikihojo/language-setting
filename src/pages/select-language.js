@@ -15,7 +15,7 @@ const SelectPage = () => (
           loading="eager"
           formats={["auto", "webp", "avif"]}
           alt=""
-          style={{ marginBottom: `var(--space-3)` }}
+          style={{ marginBottom: `var(--space-6)` }}
         />
       <h2>2.言語の項目を選択</h2>
         <p>左側メニューに「言語」の項目があります。そこをクリック。</p>
@@ -24,7 +24,7 @@ const SelectPage = () => (
           loading="eager"
           formats={["auto", "webp", "avif"]}
           alt=""
-          style={{ marginBottom: `var(--space-3)` }}
+          style={{ marginBottom: `var(--space-6)` }}
         />
       <h2>3.言語の追加を選択</h2>
         <p>「言語の追加」クリックして必要な言語を追加します。</p>
@@ -33,7 +33,7 @@ const SelectPage = () => (
           loading="eager"
           formats={["auto", "webp", "avif"]}
           alt=""
-          style={{ marginBottom: `var(--space-3)` }}
+          style={{ marginBottom: `var(--space-6)` }}
         />
       <h2>4.インストールする言語を選択</h2>
         <p>インストールする言語を選択して、「次へ」をクリック。</p>
@@ -42,7 +42,7 @@ const SelectPage = () => (
           loading="eager"
           formats={["auto", "webp", "avif"]}
           alt=""
-          style={{ marginBottom: `var(--space-3)` }}
+          style={{ marginBottom: `var(--space-6)` }}
         />
     <Link to="/">Go back to the homepage</Link>
   </Layout>

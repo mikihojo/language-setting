@@ -97,9 +97,9 @@ const IndexPage = () => (
         {/*samplePageLinks.map((link, i) => (
           <React.Fragment key={link.url}>
             <Link to={link.url}>{link.text}</Link>
-            {i !== samplePageLinks.length - 1 && <> · </>*/}
+            {i !== samplePageLinks.length - 1 && <> · </>}
           </React.Fragment>
-        ))}
+        ))*/}
         <br />
         Edit <code>src/pages/index.js</code> to update this page.
       </p>

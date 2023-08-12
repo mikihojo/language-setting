@@ -83,6 +83,7 @@ const IndexPage = () => (
       <StaticImage
         src="../images/note-alphabet.png"
         loading="eager"
+        placeholder="blurred"
         width={64}
         quality={95}
         formats={["auto", "webp", "avif"]}

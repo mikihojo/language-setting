@@ -90,7 +90,7 @@ const IndexPage = () => (
         style={{ marginBottom: `var(--space-3)` }}
       />
       <h1>
-        bienvenue à <b>Gatsby!</b>
+        Windowsで言語の設定
       </h1>
       <p className={styles.intro}>
         <b>Example aa pages:</b>{" "}

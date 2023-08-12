@@ -24,7 +24,7 @@ const Header = ({ siteTitle }) => (
     <StaticImage
         src="../images/JICA_logo.png"
         loading="eager"
-        height={20}
+        height={40}
         style={{ margin: 0 }}
       />      
   </header>

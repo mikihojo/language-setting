@@ -15,9 +15,9 @@ const links = [
   },
   {
     text: "2.言語の変更方法",
-    url: "https://www.gatsbyjs.com/cloud",
+    url: "change-language",
     description:
-      "Now you’re ready to show the world! Give your Gatsby site superpowers: Build and host on Gatsby Cloud. Get started for free!",
+      "日本語から追加した言語に変更してみよう！",
   },  
   {
     text: "3.キーボードの配置を確認する",

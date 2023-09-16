@@ -21,22 +21,28 @@ const links = [
   },  
   {
     text: "3.キーボードの配置を確認する",
-    url: "https://github.com/gatsbyjs/gatsby/tree/master/examples",
+    url: "",
     description:
       "Windowsのキーボードとオンラインキーボード",
   },
   {
     text: "4.Word,Excelで入力してみる",
-    url: "https://www.gatsbyjs.com/plugins",
+    url: "",
     description:
       "Word,Excelで入力してみて正しく表示されるか確認する",
   },
   {
-    text: "補足.各言語とフォントの対応表",
+    text: "補足1.各言語とフォントの対応表",
     url: "language-font",
     description:
       "Word,Excelで表示可能なフォントを各言語ごとにまとめています。"
   },
+  {
+    text: "補足2.それでも入力できない文字がある場合",
+    url: "language-code",
+    description:
+      "文字コードを使用して入力しましょう。"
+  },  
 
 ]
 

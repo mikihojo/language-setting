@@ -42,6 +42,12 @@ const links = [
     url: "language-code",
     description:
       "文字コードを使用して入力しましょう。"
+  },
+  {
+    text: "補足3.オンラインキーボードを使ってみよう",
+    url: "online-keyboard",
+    description:
+      "オンラインキーボードを使えば即座に他言語入力が可能"
   },  
 
 ]
